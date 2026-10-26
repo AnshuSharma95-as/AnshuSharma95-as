@@ -138,11 +138,16 @@ A quantitative project exploring market-data ingestion, technical indicators, li
 <p align="center"><img src="./assets/readme/section-programs.svg" alt="06 — GitHub programs and account features" width="100%"/></p>
 
 <p align="center">
-  <a href="https://docs.github.com/en/integrations/concepts/github-developer-program"><img src="https://img.shields.io/badge/Explore-GitHub%20Developer%20Program-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Developer Program"/></a>
-  <a href="https://github.com/settings/billing"><img src="https://img.shields.io/badge/Manage-GitHub%20Plan-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Manage GitHub plan"/></a>
+  <a href="https://github.com/settings/apps"><img src="https://img.shields.io/badge/Developer%20Program-Registration%20%26%20Eligibility-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Program registration and eligibility"/></a>
+  <a href="https://github.com/settings/billing"><img src="https://img.shields.io/badge/GitHub%20Pro-Plan%20%26%20Upgrade-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Check or upgrade GitHub plan"/></a>
 </p>
 
-GitHub displays its **Developer Program Member** badge after an account joins the Developer Program and meets its requirements, including building an app that integrates with the GitHub API. GitHub displays the **PRO** badge when the account uses GitHub Pro. These are account-level badges, so they cannot be activated by adding an image to this README. [Developer Program details](https://docs.github.com/en/integrations/concepts/github-developer-program) · [GitHub Pro plan](https://docs.github.com/en/get-started/learning-about-github/githubs-plans)
+**About official profile badges**
+
+- **Developer Program Member:** Apply through the [GitHub Developer Program](https://docs.github.com/en/integrations/concepts/github-developer-program). Membership is intended for developers building an integration using the GitHub API and providing a support contact.
+- **PRO:** Check the account’s plan and upgrade through [GitHub Billing](https://github.com/settings/billing).
+
+GitHub adds these native badges to the profile after the relevant membership or subscription is active. The buttons above are navigation links only; they do not claim either status or imitate an official account badge. [GitHub’s profile badge documentation](https://docs.github.com/en/account-and-profile/reference/profile-reference)
 
 <p align="center"><img src="./assets/readme/section-contact.svg" alt="07 — Connect" width="100%"/></p>
 
