@@ -1,5 +1,5 @@
 <!-- Profile README for github.com/AnshuSharma95-as. Keep assets/readme/ beside this file. -->
-<p align="center"><img src="./assets/readme/hero.svg" alt="Anshu Sharma — AI Automation, Data Workflows, Applied ML" width="100%"/></p>
+<p align="center"><img src="AnshuSharma95-as/profile-hero-preview.png" alt="Anshu Sharma — AI Automation, Data Workflows, Applied ML" width="100%"/></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Engineering-AI%20Automation-7C3AED?style=flat-square" alt="AI automation"/>
