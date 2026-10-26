@@ -1,56 +1,156 @@
-<!-- Profile README for github.com/AnshuSharma95-as. Keep assets/readme/ beside this file. -->
-<p align="center"><img src="AnshuSharma95-as/profile-hero-preview.png" alt="Anshu Sharma — AI Automation, Data Workflows, Applied ML" width="100%"/></p>
+<!--
+  ANSHU SHARMA · Profile README
+  Custom visual assets are stored in ./assets/readme/.
+-->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Engineering-AI%20Automation-7C3AED?style=flat-square" alt="AI automation"/>
-  <img src="https://img.shields.io/badge/Workflows-n8n%20%7C%20Python%20%7C%20APIs-0F766E?style=flat-square" alt="Workflow stack"/>
-  <img src="https://img.shields.io/badge/Focus-OCR%20%7C%20ML%20%7C%20Integration-DB2777?style=flat-square" alt="Applied focus"/>
+  <img src="./assets/readme/hero.svg" alt="Anshu Sharma — AI Automation, Backend Integration, Applied ML" width="100%"/>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&height=42&lines=Reliable+automation+for+repetitive+work.;Document+intelligence+and+structured+data+extraction.;Connecting+APIs%2C+databases+and+AI+workflows." alt="Automation, OCR, data extraction and integrations"/></p>
+<p align="center">
+  <a href="https://github.com/AnshuSharma95-as?tab=repositories"><img src="https://img.shields.io/badge/Explore-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+  <a href="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/anshu-sharma-b74a07221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:anshusharma5.as@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<p align="center"><img src="./assets/readme/section-whoami.svg" alt="01 — Profile" width="100%"/></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1100&color=A78BFA&center=true&vCenter=true&width=850&height=45&lines=Making+repetitive+work+more+reliable+through+automation.;Connecting+APIs%2C+databases%2C+documents+and+AI.;Python+%C2%B7+n8n+%C2%B7+FastAPI+%C2%B7+OCR+%C2%B7+SQL" alt="Automation and applied AI focus"/>
+</p>
 
-I build automation and data-oriented software with a focus on practical operations: fewer repetitive steps, clear data flows, and predictable failure handling. My engineering interests include workflow orchestration, browser automation, document/OCR pipelines, API integrations, and applied machine learning.
+---
 
-**Working principles:** make workflows observable, validate data at boundaries, handle duplicates and exceptions explicitly, and keep credentials and company data out of source control.
+<p align="center"><img src="./assets/readme/section-whoami.svg" alt="01 — About" width="100%"/></p>
 
-<p align="center"><img src="./assets/readme/section-focus.svg" alt="02 — Capabilities" width="100%"/></p>
+I’m an **AI Automation Engineer** interested in practical systems at the intersection of workflow automation, backend integration, document intelligence, and applied machine learning.
 
-| Area | Typical work |
-|---|---|
-| **Workflow automation** | Webhook-triggered flows, task orchestration, repetitive process reduction, exception handling |
-| **API & database integration** | Python APIs, REST requests, SQL persistence, Oracle DB / SQLite workflows |
-| **Document intelligence** | PDF and image preprocessing, OCR extraction, field normalization, structured output |
-| **Applied ML** | Dataset preparation, feature engineering, forecasting experiments, validation and model serving |
+My focus is turning repetitive processes into structured workflows: connecting systems, validating data, handling duplicates and exceptions, and producing useful, maintainable results. I work with Python-based services, browser automation, OCR pipelines, databases, and workflow orchestrators.
+
+```python
+engineering_focus = {
+    "automation": ["n8n", "Selenium", "webhooks", "workflow design"],
+    "backend": ["Python", "FastAPI", "REST APIs", "SQL"],
+    "document_ai": ["OCR", "PDF/image preprocessing", "field normalization"],
+    "applied_ml": ["feature engineering", "forecasting", "model evaluation"],
+    "principle": "Validate data. Handle failure. Protect sensitive information."
+}
+```
+
+<p align="center"><img src="./assets/readme/section-focus.svg" alt="02 — Engineering focus" width="100%"/></p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚙️ Workflow & RPA Automation</h3>
+      Browser automation, webhook-driven flows, repetitive operational process reduction, and clear exception handling.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 OCR & Document Intelligence</h3>
+      PDF/image preprocessing, field extraction, normalization, structured outputs, and handling low-quality or incomplete documents.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔌 APIs & Data Integration</h3>
+      Python APIs, REST integrations, SQL persistence, and service-to-service workflow orchestration.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Applied Machine Learning</h3>
+      Data preparation, feature engineering, regression/forecasting experiments, model evaluation, and API/dashboard integration.
+    </td>
+  </tr>
+</table>
 
 <p align="center"><img src="./assets/readme/section-projects.svg" alt="03 — Selected work" width="100%"/></p>
 
-### Workflow orchestration — n8n + Python + SQLite
-A multi-step integration pattern for receiving webhook requests, validating payloads, coordinating Python processing, and using persistent storage for duplicate-aware logic.
+### 🔁 AI Automation Assignment — n8n + Python + SQLite
+A workflow-integration project combining n8n, a Python API, webhooks, and SQLite-backed processing. It explores payload validation, duplicate-aware processing, and coordinating automation steps.
 
-### Document/OCR pipeline
-An approach for handling varied PDF/image inputs, extracting target fields, standardizing output, and routing failures for review rather than silently accepting incomplete data.
+[View repository on the personal GitHub account](https://github.com/SharmAnshu5/-AI_Automation_Assignment)
 
-### Browser and database automation
-Operational process automation combining Selenium-driven UI interactions with database updates and exception handling.
+### 🧾 OCR Release Order Scanner
+A document-processing workflow intended to extract structured fields from Release Order PDFs and images, normalize the results, and create consistent tabular output. Key engineering concerns include preprocessing, validation, folder watching, and error routing.
 
-### Applied machine-learning workflows
-Python-based forecasting and quantitative-analysis experiments covering preprocessing, feature construction, model evaluation, and API/dashboard integration.
+### ⚡ Retainer RO Ad-Booking Automation
+A browser and database automation workflow using Selenium and Oracle DB to reduce repetitive booking steps, update records, and deal with common workflow exceptions.
 
-> This profile describes capabilities at a high level. Internal workflows, customer data, credentials, production identifiers, and proprietary source code should not be published here. Link specific repositories only after confirming their visibility and approval to share.
+### 📈 Energy Consumption Forecasting
+An applied ML pipeline exploring data preparation, engineered features, regression models such as Random Forest and XGBoost, and API-based serving.
 
-<p align="center"><img src="./assets/readme/section-stack.svg" alt="04 — Tooling" width="100%"/></p>
+### 🩺 InsuScan Pro — Medical Report Analysis Prototype
+A learning project using Streamlit, FastAPI, document parsing, and ML experiments to explore structured medical-report information and understandable summaries.
 
-<p><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/></p>
-<p><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> <img src="https://img.shields.io/badge/PaddleOCR-2563EB?style=for-the-badge" alt="PaddleOCR"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/> <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"/></p>
+### 📊 Stock Market Screening & Analysis
+A quantitative project exploring market-data ingestion, technical indicators, liquidity filters, time-series features, crossover analysis, and historical backtesting.
+
+> Some work is private, internal, or still evolving. These descriptions avoid proprietary implementation details and do not represent exploratory ML components as production-ready. Public links are included only where an accessible repository is available.
+
+<p align="center"><img src="./assets/readme/section-stack.svg" alt="04 — Toolkit" width="100%"/></p>
+
+**Languages & data**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</p>
+
+**Automation & APIs**
+
+<p>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-334155?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Webhooks-6D28D9?style=for-the-badge" alt="Webhooks"/>
+</p>
+
+**ML, OCR & applications**
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-15803D?style=for-the-badge" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/PaddleOCR-2563EB?style=for-the-badge" alt="PaddleOCR"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+**Databases & developer tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle DB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 <p align="center"><img src="./assets/readme/section-stats.svg" alt="05 — GitHub activity" width="100%"/></p>
 
-<p align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=AnshuSharma95-as&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub overview statistics"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuSharma95-as&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/></p>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnshuSharma95-as&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&custom_title=GitHub%20Overview" alt="GitHub overview statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshuSharma95-as&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used languages"/>
+</p>
+
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AnshuSharma95-as&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="GitHub activity graph"/></p>
 
-<p align="center"><img src="./assets/readme/section-contact.svg" alt="06 — Explore" width="100%"/></p>
+<p align="center"><img src="./assets/readme/section-programs.svg" alt="06 — GitHub programs and account features" width="100%"/></p>
 
-<p align="center"><a href="https://github.com/AnshuSharma95-as?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a></p>
-<p align="center"><img src="./assets/readme/footer.svg" alt="Build thoughtfully. Automate responsibly." width="100%"/></p>
+<p align="center">
+  <a href="https://docs.github.com/en/integrations/concepts/github-developer-program"><img src="https://img.shields.io/badge/Explore-GitHub%20Developer%20Program-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Developer Program"/></a>
+  <a href="https://github.com/settings/billing"><img src="https://img.shields.io/badge/Manage-GitHub%20Plan-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Manage GitHub plan"/></a>
+</p>
+
+GitHub displays its **Developer Program Member** badge after an account joins the Developer Program and meets its requirements, including building an app that integrates with the GitHub API. GitHub displays the **PRO** badge when the account uses GitHub Pro. These are account-level badges, so they cannot be activated by adding an image to this README. [Developer Program details](https://docs.github.com/en/integrations/concepts/github-developer-program) · [GitHub Pro plan](https://docs.github.com/en/get-started/learning-about-github/githubs-plans)
+
+<p align="center"><img src="./assets/readme/section-contact.svg" alt="07 — Connect" width="100%"/></p>
+
+<p align="center">
+  <a href="https://github.com/AnshuSharma95-as?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+  <a href="https://sharmanshu5.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/anshu-sharma-b74a07221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:anshusharma5.as@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center"><img src="./assets/readme/footer.svg" alt="Build thoughtfully. Automate responsibly. Make technology useful." width="100%"/></p>
