@@ -138,7 +138,7 @@ A quantitative project exploring market-data ingestion, technical indicators, li
 <p align="center"><img src="./assets/readme/section-programs.svg" alt="06 — GitHub programs and account features" width="100%"/></p>
 
 <p align="center">
-  <a href="https://github.com/settings/apps"><img src="https://img.shields.io/badge/Developer%20Program-Registration%20%26%20Eligibility-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Program registration and eligibility"/></a>
+  <a href="https://docs.github.com/en/integrations/concepts/github-developer-program"><img src="https://img.shields.io/badge/Developer%20Program-Registration%20%26%20Eligibility-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Developer Program registration and eligibility"/></a>
   <a href="https://github.com/settings/billing"><img src="https://img.shields.io/badge/GitHub%20Pro-Plan%20%26%20Upgrade-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Check or upgrade GitHub plan"/></a>
 </p>
 
